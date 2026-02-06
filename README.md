@@ -15,11 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m a senior software engineer with over twenty years of professional experience, including fourteen of those years working remotely from home. In that time, I’ve worked developing software for everything from Palm Pilots to iPads, desktops to laptops, and every web browser conceivable. I’ve also crafted nodeJS middleware, and backend servers using relational databases in many different languages.
+With over 20 years of experience in software engineering, I have developed, led, and supported a wide range of web, desktop, and mobile applications, using various technologies and frameworks such as JavaScript, Node.js, PhoneGap, Postgres, SQLite, Underscore.js, Obj-C, Express.js, Tailwind CSS, and Material-UI. I have also worked remotely since 2008, mastering the skills and tools required for effective communication, collaboration, and delivery in a distributed environment.
+
+For the last two years I've led the full-stack efforts to modernize the Powell's e-commerce platform. My responsibilities included working to bring the data out of our legacy applications and into the cloud where it could be utilized by our PaaS vendors. My team and I developed a series of ETL pipelines that keep the 10 million products in physical stores and e-commerce platforms aligned. The Python and TypeScript pipelines directly supported our marketing efforts, online ads, on-site search, and SEO.
+
+I spent over 13 years at Cornerstone Systems Northwest, Inc., where I held multiple roles such as Engineering Lead, Desktop Client Architect, Lead Mobile Developer, and Web Application Developer. I planned, developed, supported, and maintained various desktop and mobile applications, created a Node.js proxy to route client traffic to multiple endpoints, and led rotating teams of developers, moving between projects to meet deadlines, onboarding and mentoring new developers, and driving our technology assessment and lifecycle management task force company-wide. I am most proud of projects that required the collaboration of client, server, and operations stakeholders.
+
+I am passionate about computer science, software development, and lifelong learning. I enjoy teaching and mentoring others, as well as learning from them. I am always looking for new challenges and opportunities to apply my skills and knowledge to create innovative and user-friendly solutions. I am also committed to delivering high-quality products that meet the needs and expectations of the customers and the business.
 
 ### **Recent experience**
 
-**Powell's Books (Working remotely, Portland, OR)**  
+**Powell's Books (Remote, Portland, OR)**  
 Full Stack Engineer (Dec 2023 - Dec 2024)  
 Full Stack Engineer - Lead (Dec 2024 - Dec 2025)
 
@@ -27,15 +33,15 @@ Full Stack Engineer - Lead (Dec 2024 - Dec 2025)
 * Architected and delivered complex ETL ingestion pipelines in Python, sustaining tens of millions of daily transactions with strong data integrity under variable vendor schemas.
 * Guided and mentored engineers while coordinating across stakeholders and contractors to deliver a full-stack modernization, including data lake workflows, Terraform IaC, and integrations to CRMs and a Vue 3 app.
 
-### **Javascript**
+### **JavaScript**
 
-My experience with JavaScript is deep. Here are some of libraries I’ve worked with:
+My experience with JavaScript is deep. Here are some of the libraries I’ve worked with:
 
 * MVC: Backbone and React  
 * DOM: jQuery  
 * Styling: Bootstrap, Tailwind, LESS, and SCSS  
-* Frameworks: Underscore, Electron, PhoneGap/Crodova  
-* Tooling: nodeJS, Grunt, Webpack, TypeScript, Firebase
+* Frameworks: Underscore, Electron, PhoneGap/Cordova  
+* Tooling: Node.js, Grunt, Webpack, TypeScript, Firebase
 
 ### **Blog posts and open source contributions**
 
@@ -60,10 +66,10 @@ My primary responsibility as the client architect at the time was to take what w
 
 My work in the Electron space included:
 
-* Offline capable desktop application for macOS and Windows  
-* Savings data for offline use in SQLite  
+* Offline-capable desktop application for macOS and Windows  
+* Saving data for offline use in SQLite  
 * In-app updates, including diff updates for both supported operating systems  
-* Use cross process communications to check the OS idle timer to clock out a user automatically if they stopped being active, put their computer to sleep, or shut it down.   
+* Use cross-process communications to check the OS idle timer to clock out a user automatically if they stopped being active, put their computer to sleep, or shut it down.   
 * Display cross platform notifications that respected Do Not Disturb in macOS and Focus Assist in Windows  
 * Allowing local log files to be uploaded with SSH at the request of the helpdesk
 
