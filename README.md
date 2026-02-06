@@ -17,6 +17,16 @@ Here are some ideas to get you started:
 
 I’m a senior software engineer with over twenty years of professional experience, including fourteen of those years working remotely from home. In that time, I’ve worked developing software for everything from Palm Pilots to iPads, desktops to laptops, and every web browser conceivable. I’ve also crafted nodeJS middleware, and backend servers using relational databases in many different languages.
 
+### **Recent experience**
+
+**Powell's Books (Working remotely, Portland, OR)**  
+Full Stack Engineer (Dec 2023 - Dec 2024)  
+Full Stack Engineer - Lead (Dec 2024 - Dec 2025)
+
+* Led greenfield, event-driven data platform replacing legacy MSSQL on-prem systems with Azure (Cosmos DB, serverless functions, queues/topics).
+* Architected and delivered complex ETL ingestion pipelines in Python, sustaining tens of millions of daily transactions with strong data integrity under variable vendor schemas.
+* Guided and mentored engineers while coordinating across stakeholders and contractors to deliver a full-stack modernization, including data lake workflows, Terraform IaC, and integrations to CRMs and a Vue 3 app.
+
 ### **Javascript**
 
 My experience with JavaScript is deep. Here are some of libraries I’ve worked with:
