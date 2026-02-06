@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-With over 20 years of experience in software engineering, I have developed, led, and supported a wide range of web, desktop, and mobile applications, using various technologies and frameworks such as JavaScript, Node.js, PhoneGap, Postgres, SQLite, Underscore.js, Obj-C, Express.js, Tailwind CSS, and Material-UI. I have also worked remotely since 2008, mastering the skills and tools required for effective communication, collaboration, and delivery in a distributed environment.
+With over 20 years of experience in software engineering, I have developed, led, and supported a wide range of web, desktop, and mobile applications, using various technologies and frameworks such as JavaScript, Node.js, Postgres, SQLite, Express.js, Tailwind CSS, and Material-UI. More: PhoneGap, Underscore.js, and Obj-C. I have also worked remotely since 2008, mastering the skills and tools required for effective communication, collaboration, and delivery in a distributed environment.
 
-For the last two years I've led the full-stack efforts to modernize the Powell's e-commerce platform. My responsibilities included working to bring the data out of our legacy applications and into the cloud where it could be utilized by our PaaS vendors. My team and I developed a series of ETL pipelines that keep the 10 million products in physical stores and e-commerce platforms aligned. The Python and TypeScript pipelines directly supported our marketing efforts, online ads, on-site search, and SEO.
+I spent over 13 years at Cornerstone Systems Northwest, Inc., where I held multiple roles such as Engineering Lead, Desktop Client Architect, Lead Mobile Developer, and Web Application Developer. I am most proud of projects that required the collaboration of client, server, and operations stakeholders. During that time, I planned, developed, supported, and maintained various desktop and mobile applications, created a Node.js proxy to route client traffic to multiple endpoints, and led rotating teams of developers, moving between projects to meet deadlines, onboarding and mentoring new developers, and driving our technology assessment and lifecycle management task force company-wide.
 
-I spent over 13 years at Cornerstone Systems Northwest, Inc., where I held multiple roles such as Engineering Lead, Desktop Client Architect, Lead Mobile Developer, and Web Application Developer. I planned, developed, supported, and maintained various desktop and mobile applications, created a Node.js proxy to route client traffic to multiple endpoints, and led rotating teams of developers, moving between projects to meet deadlines, onboarding and mentoring new developers, and driving our technology assessment and lifecycle management task force company-wide. I am most proud of projects that required the collaboration of client, server, and operations stakeholders.
+I care about computer science, mentoring, and building reliable products, and I enjoy collaborating in distributed teams.
 
-I am passionate about computer science, software development, and lifelong learning. I enjoy teaching and mentoring others, as well as learning from them. I am always looking for new challenges and opportunities to apply my skills and knowledge to create innovative and user-friendly solutions. I am also committed to delivering high-quality products that meet the needs and expectations of the customers and the business.
+Now: open to senior/staff full-stack or data platform roles.
 
 ### **Recent experience**
 
@@ -29,8 +29,8 @@ I am passionate about computer science, software development, and lifelong learn
 Full Stack Engineer (Dec 2023 - Dec 2024)  
 Full Stack Engineer - Lead (Dec 2024 - Dec 2025)
 
-* Led greenfield, event-driven data platform replacing legacy MSSQL on-prem systems with Azure (Cosmos DB, serverless functions, queues/topics).
 * Architected and delivered complex ETL ingestion pipelines in Python, sustaining tens of millions of daily transactions with strong data integrity under variable vendor schemas.
+* Led greenfield, event-driven data platform replacing legacy MSSQL on-prem systems with Azure (Cosmos DB, serverless functions, queues/topics).
 * Guided and mentored engineers while coordinating across stakeholders and contractors to deliver a full-stack modernization, including data lake workflows, Terraform IaC, and integrations to CRMs and a Vue 3 app.
 
 ### **JavaScript**
@@ -53,7 +53,7 @@ Performance is an important feature, so I wanted to help other WordPress users g
 
 ### **About my work**
 
-* Led the effort to create a [nodeJS proxy](https://www.cornerstonenw.com/services/web-application-centralizing-proxy/) to route client traffic to multiple endpoints  
+* Led the effort to create a [Node.js proxy](https://www.cornerstonenw.com/services/web-application-centralizing-proxy/) to route client traffic to multiple endpoints  
 * Responsible for developing [client support of PIV cards](https://www.cornerstonenw.com/services/piv-card-implementation/)  
 * [Letter of recommendation](https://drive.google.com/file/d/18287GKsbKFaGPWVcXxcCgXLRg8BOD7N3/view?usp=drive_link) from a previous employer  
 * LinkedIn [recommendations](https://www.linkedin.com/in/shaun-kester/details/recommendations/)
@@ -70,7 +70,7 @@ My work in the Electron space included:
 * Saving data for offline use in SQLite  
 * In-app updates, including diff updates for both supported operating systems  
 * Use cross-process communications to check the OS idle timer to clock out a user automatically if they stopped being active, put their computer to sleep, or shut it down.   
-* Display cross platform notifications that respected Do Not Disturb in macOS and Focus Assist in Windows  
+* Display cross-platform notifications that respected Do Not Disturb in macOS and Focus Assist in Windows  
 * Allowing local log files to be uploaded with SSH at the request of the helpdesk
 
 I hope I can bring my years of experience and breadth of knowledge to your organization and contribute to your future success as part of the team. 
