@@ -51,9 +51,7 @@ I made a small YouTube demonstration, explanatory screenshots, shared the code i
 
 Performance is an important feature, so I wanted to help other WordPress users gather hard data on how their WordPress site was performing. I built and iterated on a plugin that would provide users with that data and render graphs that gave them the insight they needed to make an informed decision. My plugin is [hosted in the WordPress plugins directory](https://wordpress.org/plugins/latency-tracker/) and you can download a zip file that contains the code. It eventually gave me the [information I needed](https://skfox.com/2010/03/12/goodbye-media-temple-hello-web-faction/) to move hosts. 
 
-### **About my work**
-
-References available: [Cornerstone Systems Northwest, Inc.](https://drive.google.com/file/d/18287GKsbKFaGPWVcXxcCgXLRg8BOD7N3/view?usp=drive_link) and [Powell's Books](https://drive.google.com/file/d/1lxqROwtu63QpKUSCpfENiMgtwxZekOO_/view?usp=sharing)
+### **About my work and references**
 
 * Led the effort to create a [Node.js proxy](https://www.cornerstonenw.com/services/web-application-centralizing-proxy/) to route client traffic to multiple endpoints  
 * Responsible for developing [client support of PIV cards](https://www.cornerstonenw.com/services/piv-card-implementation/)  
