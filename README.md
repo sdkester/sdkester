@@ -53,10 +53,13 @@ Performance is an important feature, so I wanted to help other WordPress users g
 
 ### **About my work**
 
+References available: [Cornerstone Systems Northwest, Inc.](https://drive.google.com/file/d/18287GKsbKFaGPWVcXxcCgXLRg8BOD7N3/view?usp=drive_link) and [Powell's Books](https://drive.google.com/file/d/1lxqROwtu63QpKUSCpfENiMgtwxZekOO_/view?usp=sharing)
+
 * Led the effort to create a [Node.js proxy](https://www.cornerstonenw.com/services/web-application-centralizing-proxy/) to route client traffic to multiple endpoints  
 * Responsible for developing [client support of PIV cards](https://www.cornerstonenw.com/services/piv-card-implementation/)  
-* [Letter of recommendation](https://drive.google.com/file/d/18287GKsbKFaGPWVcXxcCgXLRg8BOD7N3/view?usp=drive_link) from a previous employer  
-* LinkedIn [recommendations](https://www.linkedin.com/in/shaun-kester/details/recommendations/)
+* [Letter of recommendation](https://drive.google.com/file/d/18287GKsbKFaGPWVcXxcCgXLRg8BOD7N3/view?usp=drive_link) (Cornerstone Systems Northwest, Inc.)  
+* [Letter of recommendation](https://drive.google.com/file/d/1lxqROwtu63QpKUSCpfENiMgtwxZekOO_/view?usp=sharing) (Powell's Books)  
+* Additional [recommendations on LinkedIn](https://www.linkedin.com/in/shaun-kester/details/recommendations/)
 
 ### **Use my software**
 
